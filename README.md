@@ -7,6 +7,7 @@ FRENCH
 <img width="190" alt="image" src="https://github.com/VikashMediboina/MedicalBot/assets/58514852/94c10fac-9feb-4f68-aae8-db9c8f327c2f">
 
 SPANISH
+
 <img width="208" alt="image" src="https://github.com/VikashMediboina/MedicalBot/assets/58514852/423e1138-4d49-48a0-b557-1b8e8f170a3d">
 
 
