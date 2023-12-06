@@ -1,0 +1,12 @@
+autotrain llm \
+--train \
+--model TinyPixel/Llama-2-7B-bf16-sharded \
+--project-name medical-bot \
+--data-path /home/mediboina.v/Vikash/medicalBot/Data \
+--text-column Text \
+--lr 2e-4 \
+--batch-size 1 \
+--epochs 3 \
+--trainer sft \
+--push_to_hub --token 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 \
+--repo_id vikashmediboina/medical-bot
